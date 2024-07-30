@@ -5,7 +5,7 @@ const Hero = () => {
     <div className='w-full flex justify-center items-center flex-col'>
         <div className='mt-5  nav flex w-full justify-between items-center flex-row'>
             <img src={logo} alt="sumz_logo" className='w-28 object-contain'/>
-            <button type="button" onClick={()=>window.open(`https://github.com/vedanshi-arya`)} className='black_btn'>Github</button>
+            <button type="button" onClick={()=>window.open(`https://github.com/Vedanshi-Arya/Sumz_Summarize-Articles`)} className='black_btn'>Github</button>
         </div>
 
         <div className='mt-10 flex flex-col items-center justify-center'>
